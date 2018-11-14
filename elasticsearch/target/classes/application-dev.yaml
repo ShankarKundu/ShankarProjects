@@ -1,0 +1,28 @@
+
+server :
+  port : 8081
+
+
+es:
+  host : 127.0.0.1
+  port : 9300
+  cluster-name : docker-cluster
+  node-name: lKt65Cl
+  transport-sniff: true
+  http-enabled: false
+
+
+
+
+#For Logging
+logging:
+  config: classpath:logback-dev.xml
+
+#Ditributed Tracing
+spring:
+  zipkin:
+    enabled: true
+    base-url: 5
+
+
+
