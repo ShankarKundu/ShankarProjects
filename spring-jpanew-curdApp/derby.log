@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 12 14:43:47 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-678d-a0b9-00000cf87a98 
+on database directory memory:/home/frost-4/Desktop/Shankar Practice/spring-jpanew-curdApp/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/frost-4/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home/frost-4/Desktop/Shankar Practice/spring-jpanew-curdApp
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-36-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
